@@ -1,0 +1,9 @@
+linux-system-performance-monitoring/
+│
+├── README.md
+├── monitor.sh
+├── screenshots/
+│   ├── 1-script.png
+│   ├── 2-output-log.png
+│   ├── 3-cron-job.png
+│   ├── 4-live-log.png
