@@ -25,7 +25,7 @@ Monitor CPU, RAM, and Disk automatically using Bash.
 
 ## Step 4
 - crontab -e
-# Cron 
+### Cron 
 - Add:
 - */5 * * * * /monitor.sh
 
@@ -48,8 +48,7 @@ Monitor CPU, RAM, and Disk automatically using Bash.
 - Even small automation saves manual effort.
 
 ## 🌍 Real-World Use Cases
-
-# This same concept is used in:
+### This same concept is used in:
 - Linux servers
 - Cloud VMs
 - Web hosting systems
@@ -58,8 +57,11 @@ Monitor CPU, RAM, and Disk automatically using Bash.
 
 ## 🎯 Final Result
 ✔ CPU monitored
-✔ RAM monitored
-✔ Disk usage logged
-✔ Automatic health checks enabled
-✔ System health monitoring automated successfully.
 
+✔ RAM monitored
+
+✔ Disk usage logged
+
+✔ Automatic health checks enabled
+
+✔ System health monitoring automated successfully.
